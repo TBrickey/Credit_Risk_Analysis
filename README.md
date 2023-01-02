@@ -29,6 +29,8 @@ Undersampling:
 - confusion_matrix  [   70,    31], [10340,  6764]
 - classification_report_imbalanced
 
+![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversamplingclass.png)
+
 
 SMOTEENN, Combination (Over and Under) Sampling:
 
