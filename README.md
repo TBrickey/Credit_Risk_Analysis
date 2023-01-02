@@ -7,9 +7,9 @@ Using the credit card credit dataset from LendingClub, we have oversampled the d
 
 Oversampling:
 
--balanced_accuracy_score 0.6447993752836463
--confusion_matrix(y_test, y_pred) array([[   70,    31], [ 6933, 10171]], dtype=int64)
--print(classification_report_imbalanced(y_test, y_pred))
+- balanced_accuracy_score 0.6447993752836463
+- confusion_matrix(y_test, y_pred) array([[   70,    31], [ 6933, 10171]], dtype=int64)
+- classification_report_imbalanced
                    pre       rec       spe        f1       geo       iba       sup
 
   high_risk       0.01      0.69      0.59      0.02      0.64      0.42       101
