@@ -10,9 +10,10 @@ Oversampling:
 - balanced_accuracy_score  0.6447993752836463
 - confusion_matrix  [   70,    31], [ 6933, 10171]
 - classification_report_imbalanced
+                   
                    pre       rec       spe        f1       geo       iba       sup
 
-avg / total       0.99      0.60      0.69      0.74      0.64      0.41     17205
+avg / total        0.99      0.60      0.69      0.74      0.64      0.41     17205
 
   
 
