@@ -14,7 +14,7 @@ Oversampling:
 ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversamplingclass.png)
                    
                 
-SMOTE Oversampling
+SMOTE Oversampling:
 
 - balanced_accuracy_score  0.6628910844779521
 - confusion_matrix   [   64,    37], [ 5266, 11838]
@@ -22,6 +22,41 @@ SMOTE Oversampling
 
 ![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/SMOTE%20Oversamplingclass.png)
   
+
+Undersampling:
+
+- balanced_accuracy_score  0.6628910844779521
+- confusion_matrix  [   70,    31], [10340,  6764]
+- classification_report_imbalanced
+
+
+SMOTEENN, Combination (Over and Under) Sampling:
+
+- balanced_accuracy_score  0.5442661782548694
+- confusion_matrix  [   70,    31], [10340,  6764]
+- classification_report_imbalanced
+
+![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/SMOTEENNclass.png)
+
+
+Balanced Random Forest Classifier: 
+
+- balanced_accuracy_score  0.7885466545953005
+- confusion_matrix  [   71,    30], [ 2153, 14951]
+- classification_report_imbalanced
+
+![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/BRFClass.png)
+
+
+Easy Ensemble AdaBoost Classifier
+
+- balanced_accuracy_score  0.9316600714093861
+- confusion_matrix  [   93,     8], [  983, 16121]
+- classification_report_imbalanced
+
+![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/EEAClass.png)
+
+
 
 ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversampling.png)
 
