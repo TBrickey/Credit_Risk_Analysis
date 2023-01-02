@@ -11,7 +11,7 @@ Oversampling:
 - confusion_matrix  [   70,    31], [ 6933, 10171]
 - classification_report_imbalanced
 
-      ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversamplingclass.png)
+![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversamplingclass.png)
                    
                 
 SMOTE Oversampling
@@ -20,7 +20,7 @@ SMOTE Oversampling
 - confusion_matrix   [   64,    37], [ 5266, 11838]
 - classification_report_imbalanced
 
-      ![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/SMOTE%20Oversamplingclass.png)
+![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/SMOTE%20Oversamplingclass.png)
   
 
 ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversampling.png)
