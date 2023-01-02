@@ -59,6 +59,12 @@ Easy Ensemble AdaBoost Classifier
 ![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/EEAClass.png)
 
 
+## Summary:
+
+EasyEnsembleClassifier had the highest accuracy score compared to the other algorithms.
+
+
+Additional Screenshots:
 
 ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversampling.png)
 
