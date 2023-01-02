@@ -10,10 +10,17 @@ Oversampling:
 - balanced_accuracy_score  0.6447993752836463
 - confusion_matrix  [   70,    31], [ 6933, 10171]
 - classification_report_imbalanced
+
       ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversamplingclass.png)
                    
                 
+SMOTE Oversampling
 
+- balanced_accuracy_score  0.6628910844779521
+- confusion_matrix   [   64,    37], [ 5266, 11838]
+- classification_report_imbalanced
+
+      ![TBrickey]( https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/SMOTE%20Oversamplingclass.png)
   
 
 ![TBrickey](https://github.com/TBrickey/Credit_Risk_Analysis/blob/main/Mod17/oversampling.png)
